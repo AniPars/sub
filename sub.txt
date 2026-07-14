@@ -1,4 +1,4 @@
-trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#%F0%9F%93%8A%20Used%3A%206.22%20GB%20%2F%20Unlimited%20GB
+trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#%F0%9F%93%8A%20Used%3A%207.71%20GB%20%2F%20Unlimited%20GB
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#%F0%9F%93%85%20Expiry%3A%20Never%20Expire%20(Never%20Expire)
 vless://d197ace4-67f4-83c5-ab01-91e200000000@ez-a5d03c.omidrezaeshghi09.workers.dev:443?encryption=none&security=tls&sni=ez-a5d03c.omidrezaeshghi09.workers.dev&fp=chrome&type=ws&host=ez-a5d03c.omidrezaeshghi09.workers.dev&path=/sync&allowInsecure=0#V-Core-443-OmidReza
 vless://d197ace4-67f4-83c5-ab01-91e200000001@ez-a5d03c.omidrezaeshghi09.workers.dev:2053?encryption=none&security=tls&sni=ez-a5d03c.omidrezaeshghi09.workers.dev&fp=chrome&type=ws&host=ez-a5d03c.omidrezaeshghi09.workers.dev&path=/sync&allowInsecure=0#V-Core-2053-OmidReza
